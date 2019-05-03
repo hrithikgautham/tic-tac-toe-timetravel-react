@@ -1,9 +1,8 @@
 import React from 'react';
 import './App.css';
-import Main from './components/Main.js';
 
 function App(){
-  return <Main/>
+  return <h1>hrllo js</h1>
 }
 
 export default App;
